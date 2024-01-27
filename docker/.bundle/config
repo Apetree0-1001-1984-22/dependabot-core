@@ -1,1 +1,3 @@
-BUNDLE_GEMFILE: "../dependabot-updater/Gemfile"
+BUNDLE_GEMFILE:
+"../dependabot-updater/
+Gemfile"
